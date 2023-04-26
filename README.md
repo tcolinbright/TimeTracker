@@ -24,7 +24,7 @@ To use this Timer App, follow these steps:
 
 # Code Description
 
-Importing libraries: We start by importing the required libraries, tkinter for creating the GUI and timedelta for formatting time.
+Importing libraries: We start by importing the required libraries, ```tkinter``` for creating the GUI and ```timedelta``` for formatting time.
 
 ```python
 import tkinter as tk
